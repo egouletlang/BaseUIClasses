@@ -1,0 +1,6 @@
+framework module Pods_BaseUIClassesTests {
+  umbrella header "Pods-BaseUIClassesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

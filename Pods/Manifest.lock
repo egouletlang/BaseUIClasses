@@ -1,0 +1,16 @@
+PODS:
+  - BaseUtilityClasses (1.0.14)
+
+DEPENDENCIES:
+  - BaseUtilityClasses (from `~/Code/Pods/BaseUtilityClasses/`)
+
+EXTERNAL SOURCES:
+  BaseUtilityClasses:
+    :path: ~/Code/Pods/BaseUtilityClasses/
+
+SPEC CHECKSUMS:
+  BaseUtilityClasses: 16bf428533378fbc11319306cc3d1a2e0b1efa0e
+
+PODFILE CHECKSUM: 257d72882a574371ca6254d36ad079ccc20613f1
+
+COCOAPODS: 1.1.1

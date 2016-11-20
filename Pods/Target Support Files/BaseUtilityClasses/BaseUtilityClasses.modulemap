@@ -1,0 +1,6 @@
+framework module BaseUtilityClasses {
+  umbrella header "BaseUtilityClasses-umbrella.h"
+
+  export *
+  module * { export * }
+}
